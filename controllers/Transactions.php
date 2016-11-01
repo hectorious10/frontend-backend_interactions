@@ -1,5 +1,5 @@
 <?php
-class Backoffice extends CI_Controller
+class Transactions extends CI_Controller
 {
     public function __construct() {
         parent::__construct();
